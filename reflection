@@ -1,0 +1,8 @@
+$ cat commandLine
+The five commands I tried out were: cd <directory>, cd .., ls, rm <file> and rm -r <directory>, and mkdir.
+
+The first command, cd <directory>, takes you to a certain folder in your computer named <directory>. It is very useful for finding certain folders without going through your computers folders manually, but can be tricky to use if you do not know the name of the <directory>. This is where the "ls" command comes in. This command shows you a list of the important files in your current directory. This means you are able to see and go to different files with the "cd" command.
+
+I also tried out the mkdir command which creates new child directories. This is a very useful command in combination with "ls" and "cd" as being able to move through you files is good and all but not very useful if you are trying to create a new file within them.
+
+The last commands I tried were "rm <file> and rm -r <directory>. These two commands delete the files and directories of choice. This is very useful if you accidently created a wrong file or directory, or you are trying to clean up you files.

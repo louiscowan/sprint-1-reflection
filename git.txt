@@ -1,0 +1,3 @@
+The stage in git is the place that you store your files that you want to be commited. Moving a file to the stage saves a copy of your work at that point in time. For example, if you had edited some of your javascript code and wanted to save it as it is, you would first add it to the staging area so that it can be saved and a time stamp and changes will be saved.
+
+Commiting if where you take your files that you have put into your staging area and save it as your current work. At the same time though, git is saving your past changes so that if you were to change your mind or maybe something went wrong and you wanted to find where the problem starts, or you want to see who has made the changes to the files, you can do so.
